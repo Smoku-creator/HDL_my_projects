@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../lab03_fsm_ascii/lab03_fsm_ascii.srcs/sources_1/new/fsm_base.v" \
+"../../../../../lab03_fsm_ascii/lab03_fsm_ascii.srcs/sources_1/new/read_file.v" \
+"../../../../lab03_receive_fsm.srcs/sources_1/new/rec_fsm.v" \
+"../../../../lab03_receive_fsm.srcs/sources_1/new/write_char.v" \
+"../../../../lab03_receive_fsm.srcs/sources_1/new/testbench_receive.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

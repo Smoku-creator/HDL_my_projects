@@ -1,0 +1,37 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.2 (win64) Build 3671981 Fri Oct 14 05:00:03 MDT 2022
+| Date         : Tue Apr 18 21:01:15 2023
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'hdmi_vga_dvi2rgb_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of hdmi_vga_dvi2rgb_0_0 (digilentinc.com:ip:dvi2rgb:2.0 (Rev. 8)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.2 (win64) Build 3671981 Fri Oct 14 05:00:03 MDT 2022
+| Date         : Tue Apr 18 20:57:33 2023
+| Host         : MSI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'hdmi_vga_clk_wiz_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of hdmi_vga_clk_wiz_0_0 (xilinx.com:ip:clk_wiz:6.0 (Rev. 11)) to Vivado generation flows.
+

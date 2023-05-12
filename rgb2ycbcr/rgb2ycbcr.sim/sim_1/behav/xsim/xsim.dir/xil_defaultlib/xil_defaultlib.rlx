@@ -1,0 +1,10 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/Wiktor/Downloads/SR_projects/rgb2ycbcr/rgb2ycbcr.gen/sources_1/ip/c_addsub_0/sim/c_addsub_0.vhd,1681843316,vhdl,,,,c_addsub_0,,,,,,,,
+C:/Users/Wiktor/Downloads/SR_projects/rgb2ycbcr/rgb2ycbcr.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+C:/Users/Wiktor/Downloads/SR_projects/rgb2ycbcr/rgb2ycbcr.srcs/sim_1/new/tb_conver.v,1681846284,verilog,,,,tb_conver,,,,,,,,
+C:/Users/Wiktor/Downloads/SR_projects/rgb2ycbcr/rgb2ycbcr.srcs/sources_1/new/rgb2ycbcr.v,1681843368,verilog,,C:/Users/Wiktor/Downloads/SR_projects/rgb2ycbcr/rgb2ycbcr.srcs/sim_1/new/tb_conver.v,,delay_line;delay_singular;rgb2ycbcr,,,,,,,,
+C:/Users/Wiktor/Downloads/SR_projects/rgb2ycbcr/tmp_edit_project.gen/sources_1/ip/add_9bit/sim/add_9bit.vhd,1681841894,vhdl,,,,add_9bit,,,,,,,,
+C:/Users/Wiktor/Downloads/SR_projects/rgb2ycbcr/tmp_edit_project.gen/sources_1/ip/multiply_18bit/sim/multiply_18bit.vhd,1681841947,vhdl,,,,multiply_18bit,,,,,,,,
